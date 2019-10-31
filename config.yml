@@ -281,8 +281,8 @@ show:
   - '&6 * &eLand / Power / Max Power: &7{chunks} &8/ &7{power} &8/ &7{maxPower}'
   - '&6 * &eBanque &f{faction-balance}'
   - '&6 * &eAlly &c{allies-list}'
-  - '&6 * &eJoueur(s) en ligne: &7{online-list} &8(&7{online}/{members}&8'
-  - '&6 * &eJoueurs(s) hors ligne: &7{offline-list} &8(&7{offline}/{members}&8)'
+  - '&6 * &eJoueur(s) en ligne: &7{online-list} &8(&7{online}/{members}&8) &a'
+  - '&6 * &eJoueurs(s) hors ligne: &7{offline-list} &8(&7{offline}/{members}&8) &c'
   - '&8&m----------------------------------------'
 # For a /f show that does not display fancy messages that are essentially empty, use minimal-show
 minimal-show: false
