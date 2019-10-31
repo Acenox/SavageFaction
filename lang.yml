@@ -112,7 +112,7 @@ COMMAND:
     DEMOTES: '&bFaction &8» &fVous venez de &cdémote &c%1$s&f.'
     DEMOTED: '&bFaction &8» &fVous vient d''être &cdémote &fpar &c%1$s&f.'
     PROMOTES: '&bFaction &8» &fVous vient d''être promote au rang de chef !'
-    PROMOTED: '&bFaction &8» &c%1$s &fvenez de donner le lead à &c%2$s &fpour la Faction &c%3$s&f.'
+    PROMOTED: '&bFaction &8» &c%1$s &fvient de donner le lead à &c%2$s &fpour la Faction &c%3$s&f.'
     DESCRIPTION: 'Admin'
     NOMEMBERS: '&bFaction &8» &fAucun membre à promouvoir.'
   AHOME:
@@ -273,7 +273,7 @@ COMMAND:
     CLICKTODEINVITE: '&bFaction &8» &fClique-ici pour annuler l''invitation de &c%1$s'
     ALREADYMEMBER: '&bFaction &8» &fLe joueur est déjà membre de la Faction.'
     MIGHTWANT: '&bFaction &8» &fVous devriez faire: &c%1$s'
-    REVOKED: '&bFaction &8» &c%1$s &fvenez de supprimer l''invitation pour rejoindre &c%2$s&f.'
+    REVOKED: '&bFaction &8» &c%1$s &fvient de supprimer l''invitation pour rejoindre la faction &c%2$s&f.'
     REVOKES: '&bFaction &8» &fVous venez de supprimer votre invitation.'
     DESCRIPTION: Supprimer une invitation
   DELFWARP:
@@ -359,8 +359,8 @@ COMMAND:
     TOINVITE: to invite someone
     FORINVITE: for inviting someone
     CLICKTOJOIN: Clique-ici pour rejoindre
-    INVITEDYOU: ' &cvenez de vous inviter à rejoindre '
-    INVITED: '&bFaction &8» &c%1$s&f venez d''inviter &c%2$s&f.'
+    INVITEDYOU: ' &avient de vous inviter à rejoindre '
+    INVITED: '&bFaction &8» &c%1$s&f vient d''inviter &c%2$s&f.'
     ALREADYMEMBER: '&bFaction &8» &fLe joueur est déjà membre d''une Faction.'
     ALREADYINVITED: '&bFaction &8» &fLe joueur est déjà invité.'
     DESCRIPTION: Inviter un joueur
@@ -432,10 +432,10 @@ COMMAND:
     NOTADMIN: '&bFaction &8» &cErreur: Vous n''avez pas les permissions.'
     SELF: '&bFaction &8» &cErreur: Vous ne pouvez pas vous promote.'
     TARGETISADMIN: '&bFaction &8» &cLe joueur est déjà Admin'
-    REVOKES: '&bFaction &8» &fVous vient d''être démote de la Faction.'
+    REVOKES: '&bFaction &8» &fVous venez d''être démote de la Faction.'
     REVOKED: '&bFaction &8» &c%1$s&f n''est plus mod de la Faction.'
-    PROMOTES: '&bFaction &8» &c%1$s&f vient d''être promote Modérateur de la Faction !'
-    PROMOTED: '&bFaction &8» &fVous vient d''être promote Modérateur de la Faction !'
+    PROMOTES: '&bFaction &8» &c%1$s&f venez d''être promote Modérateur de la Faction !'
+    PROMOTED: '&bFaction &8» &fVous venez d''être promote Modérateur de la Faction !'
     DESCRIPTION: Donner les pouvoirs de Mod
   COLEADER:
     CANDIDATES: '&bFaction &8» &fJoueurs pouvant être promote: '
@@ -444,7 +444,7 @@ COMMAND:
     NOTADMIN: '&bFaction &8» &cErreur: Vous n''avez pas les permissions.'
     SELF: '&bFaction &8» &cErreur: Vous ne pouvez pas vous promote.'
     TARGETISADMIN: '&bFaction &8» &cLe joueur est déjà Admin'
-    REVOKES: '&bFaction &8» &fVous vient d''être démote de la Faction.'
+    REVOKES: '&bFaction &8» &fVous venez d''être démote de la Faction.'
     REVOKED: '&bFaction &8» &c%1$s&f n''est plus Co-Leader de la Faction.'
     PROMOTES: '&bFaction &8» &c%1$s&f vient d''être promote Co-Leader de la Faction !'
     PROMOTED: '&bFaction &8» &fVous vient d''être promote Co-Leader de la Faction !'
