@@ -950,7 +950,7 @@ GENERTIC:
 WARBANNER:
   NOFACTION: '&bFaction &8» &cErreur: Vous devez posséder une Faction.'
   COOLDOWN: '&bFaction &8» &cUn cooldown est actuellement actif ! Vous devez patienter.'
-  INVALIDLOC: '&bFaction &8» &cErreur: Veuillez poser votre bannière dans la Warzone ou dans un claim ennemy.'
+  INVALIDLOC: '&bFaction &8» &cErreur: Veuillez poser votre bannière dans la Warzone.'
 COMPASS:
   SHORT:
     NORTH: N
