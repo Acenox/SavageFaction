@@ -4,7 +4,7 @@ Traduction en français de Savage Faction / Illyria Faction.
 
 # % de Traduction
 
-~95%
+~90-95%
 
 # Que faire si je remarque une erreur?
 
