@@ -113,8 +113,8 @@ COMMAND:
     NOTADMIN: '&bFaction &8» &cVous n''êtes pas Administrateur de la Faction.'
     TARGETSELF: '''&bFaction &8» &cVOUS? Impossible.'
     DEMOTES: '&bFaction &8» &fVous venez de &cdémote &c%1$s&f.'
-    DEMOTED: '&bFaction &8» &fVous vient d''être &cdémote &fpar &c%1$s&f.'
-    PROMOTES: '&bFaction &8» &fVous vient d''être promote au rang de chef !'
+    DEMOTED: '&bFaction &8» &fVous venez d''être &cdémote &fpar &c%1$s&f.'
+    PROMOTES: '&bFaction &8» &fVous venez d''être promote au rang de chef !'
     PROMOTED: '&bFaction &8» &c%1$s &fvient de donner le lead à &c%2$s &fpour la Faction
       &c%3$s&f.'
     DESCRIPTION: Admin
@@ -124,7 +124,7 @@ COMMAND:
     NOHOME: '&bFaction &8» &fLa Faction ne possède pas de f home.'
     SUCCESS: '&bFaction &8» &aTéléportation en cours...'
     OFFLINE: '&bFaction &8» &cLe joueur est hors-ligne.'
-    TARGET: '&bFaction &8» &fVous vient d''être téléporté à votre f home.'
+    TARGET: '&bFaction &8» &fVous venez d''être téléporté à votre f home.'
   ANNOUNCE:
     DESCRIPTION: Annoncer un message aux membres de sa Faction
   ALTS:
@@ -475,7 +475,7 @@ COMMAND:
     REVOKED: '&bFaction &8» &c%1$s&f n''est plus Co-Leader de la Faction.'
     PROMOTES: '&bFaction &8» &c%1$s&f vient d''être promote Co-Leader de la Faction
       !'
-    PROMOTED: '&bFaction &8» &fVous vient d''être promote Co-Leader de la Faction
+    PROMOTED: '&bFaction &8» &fVous venez d''être promote Co-Leader de la Faction
       !'
     DESCRIPTION: Donner les pouvoirs de Co-Leader
   MODIFYPOWER:
@@ -579,7 +579,7 @@ COMMAND:
     YOURS: '&c&l[!]&7 &c%1$s&7 has &c%2$s&7 your faction'
     OTHER: '&c&l[!]&7 &c%1$s &7has &c%2$s &7the faction &c''%3$s''.'
   PROMOTE:
-    TARGET: '&bFaction &8» &fVous vient d''être promote de &c%1$s&f à &c%2$s'
+    TARGET: '&bFaction &8» &fVous venez d''être promote de &c%1$s&f à &c%2$s'
     SUCCESS: '&bFaction &8» &fLe joueur vient d''être promote'
     PROMOTED: promote
     DEMOTED: demote
@@ -964,7 +964,7 @@ GENERIC:
   ARGS:
     TOOFEW: '&bFaction &8» &cErreur: Argument invalide.'
     TOOMANY: '&bFaction &8» &cErreur: Argument invalide: '
-  DEFAULTDESCRIPTION: '&bAucune description défini :( /f desc'
+  DEFAULTDESCRIPTION: '&bAucune description définie :( /f desc'
   OWNERS: '&fOwner(s): &c%1$s'
   PUBLICLAND: Public faction land.
   FACTIONLESS: factionless
